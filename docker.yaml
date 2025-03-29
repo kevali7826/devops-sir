@@ -2,7 +2,7 @@
 - name: Launch Docker Container
   hosts: prod
   vars:
-    docker_image: "kevali7826/Django"
+    docker_image: "kevali7826/djanngo-1"
     docker_tag: "latest"
     container_name: "con1"
     host_port: "8000"
